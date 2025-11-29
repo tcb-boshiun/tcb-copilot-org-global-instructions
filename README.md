@@ -1,2 +1,2 @@
-# tcb-copilot-org-global-instructions
-TCB - Cooilot Instructions
+# TCB - Copilot Instructions
+
